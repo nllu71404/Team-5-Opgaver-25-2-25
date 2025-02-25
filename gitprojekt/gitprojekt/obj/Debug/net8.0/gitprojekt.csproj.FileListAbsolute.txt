@@ -1,0 +1,15 @@
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\gitprojekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\gitprojekt.AssemblyInfoInputs.cache
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\gitprojekt.AssemblyInfo.cs
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\gitprojekt.csproj.CoreCompileInputs.cache
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\gitprojekt.sourcelink.json
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\bin\Debug\net8.0\gitprojekt.exe
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\bin\Debug\net8.0\gitprojekt.deps.json
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\bin\Debug\net8.0\gitprojekt.runtimeconfig.json
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\bin\Debug\net8.0\gitprojekt.dll
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\bin\Debug\net8.0\gitprojekt.pdb
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\gitprojekt.dll
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\refint\gitprojekt.dll
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\gitprojekt.pdb
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\gitprojekt.genruntimeconfig.cache
+C:\Users\yuurei\Desktop\One\Uddannelse\Datamatiker\VS projekter\GIT\Team-5-Opgaver-25-2-25\gitprojekt\gitprojekt\obj\Debug\net8.0\ref\gitprojekt.dll
