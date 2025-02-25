@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team-5-Opgaver-25-2-25\\gitprojekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{206AE886-A860-4646-B10C-BF8BCAF5C801}|gitprojekt\\gitprojekt.csproj|c:\\users\\yuurei\\desktop\\one\\uddannelse\\datamatiker\\vs projekter\\git\\team-5-opgaver-25-2-25\\gitprojekt\\gitprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{206AE886-A860-4646-B10C-BF8BCAF5C801}|gitprojekt\\gitprojekt.csproj|solutionrelative:gitprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team-5-Opgaver-25-2-25\\gitprojekt\\gitprojekt\\Program.cs",
+              "RelativeDocumentMoniker": "gitprojekt\\Program.cs",
+              "ToolTip": "C:\\Users\\yuurei\\Desktop\\One\\Uddannelse\\Datamatiker\\VS projekter\\GIT\\Team-5-Opgaver-25-2-25\\gitprojekt\\gitprojekt\\Program.cs",
+              "RelativeToolTip": "gitprojekt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:20:43.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
