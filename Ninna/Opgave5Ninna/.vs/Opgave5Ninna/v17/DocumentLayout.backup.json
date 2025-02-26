@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lene_\\Desktop\\Opgave5Ninna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F4015-2FEE-4102-8B47-C0853714B5FB}|Opgave5Ninna\\Opgave5Ninna.csproj|c:\\users\\lene_\\desktop\\opgave5ninna\\opgave5ninna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7F4015-2FEE-4102-8B47-C0853714B5FB}|Opgave5Ninna\\Opgave5Ninna.csproj|solutionrelative:opgave5ninna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lene_\\Desktop\\Opgave5Ninna\\Opgave5Ninna\\Program.cs",
+              "RelativeDocumentMoniker": "Opgave5Ninna\\Program.cs",
+              "ToolTip": "C:\\Users\\lene_\\Desktop\\Opgave5Ninna\\Opgave5Ninna\\Program.cs*",
+              "RelativeToolTip": "Opgave5Ninna\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:38:16.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

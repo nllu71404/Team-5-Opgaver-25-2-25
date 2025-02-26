@@ -1,0 +1,14 @@
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\bin\Debug\net8.0\Opgave6Ninna.exe
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\bin\Debug\net8.0\Opgave6Ninna.deps.json
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\bin\Debug\net8.0\Opgave6Ninna.runtimeconfig.json
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\bin\Debug\net8.0\Opgave6Ninna.dll
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\bin\Debug\net8.0\Opgave6Ninna.pdb
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\Opgave6Ninna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\Opgave6Ninna.AssemblyInfoInputs.cache
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\Opgave6Ninna.AssemblyInfo.cs
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\Opgave6Ninna.csproj.CoreCompileInputs.cache
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\Opgave6Ninna.dll
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\refint\Opgave6Ninna.dll
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\Opgave6Ninna.pdb
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\Opgave6Ninna.genruntimeconfig.cache
+C:\Users\lene_\Desktop\Opgave6Ninna\Opgave6Ninna\obj\Debug\net8.0\ref\Opgave6Ninna.dll
